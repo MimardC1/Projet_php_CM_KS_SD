@@ -5,10 +5,6 @@ Indiquer brièvement qui à fait quelle tâches
 
 Un mot de chacun pour décrire le projet
 
-#Mimard Chloe
-#Kevin Sot
-#Simon Dupayage
-
 Mettre à disposition des series, films, des jeux, des musiques, BD
 
 <br>La personne peut récupérer les fichiers en ligne et les consulter en ligne
@@ -21,3 +17,7 @@ Mettre à disposition des series, films, des jeux, des musiques, BD
 <br>
 <br>Page 404 personnalisé
 <br>Formulaire de contact
+
+#Mimard Chloe
+#Kevin Sot
+#Simon Dupayage

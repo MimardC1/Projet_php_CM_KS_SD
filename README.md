@@ -5,10 +5,24 @@ Indiquer brièvement qui à fait quelle tâches
 
 Un mot de chacun pour décrire le projet
 
-Mettre à disposition des series, films, des jeux, des musiques, BD
+<br>->Mettre à disposition des series, films, des jeux, des musiques, BD
+* 5 univers bien distinct pour 5 catégorie de produit
+* 5 types de fiches produit différentes
 
-<br>La personne peut récupérer les fichiers en ligne et les consulter en ligne
-<br>Possibilité de recevoir l'objet physiquement (gestion des stocks, des envois au clients)
+<br>->La personne peut récupérer les fichiers en ligne et les consulter en ligne
+* 2 boutons "Ajouter au panier"
+* Prix du numériques <  physique
+
+<br>->Possibilité de recevoir l'objet physiquement
+<br>->Gestion des stocks
+* Pouvoir incrémenter un stock
+* Arrivage de produit
+* Décrémentation des stocks si la commande est validée
+* Rectifier un stock
+* "Inventaire"
+* Produit en rupture si le stock est à 0
+
+<br>Gestion des envois au clients
 <br>Gestion des comptes (clients, administrateur)
 <br>Gestion des commentaires (avis, notation)
 <br>Gestion du panier
